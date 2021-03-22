@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ankit1208
-- 👀 I’m interested in web development, android development. 
+- 👀 I’m interested in web development. 
 - 🌱 I’m currently learning reactjs
+- smart work over hardwork
 
 
 <!---

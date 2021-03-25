@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning reactjs
 - smart work over hardwork
-- what do you think came first chicken or egg.
+- what do you think came first chicken or egg?
 
 
 <!---

@@ -19,7 +19,7 @@
 <p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ankit1208&show_icons=true&theme=vue-dark" alt="ankit1208" /></p>
 <br>
 
-| [<img src="https://github.com/ankit1208/ankit1208/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ankit-c-334907106/) |
+| [<img src="https://github.com/ankit1208/ankit1208/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ankit-c-334907106/) || [<img src="https://github.com/ankit1208/ankit1208/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/maybe_ankit/) |
 
 
 <!---

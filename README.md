@@ -18,9 +18,9 @@
  
 <p align="center"><img src="https://github-readme-stats-five-lyart.vercel.app/api?username=ankit1208&show_icons=true&theme=vue-dark" alt="ankit1208" /></p>
 <br>
-<p align="center">
+<div align='center'>
 | [<img src="https://github.com/ankit1208/ankit1208/blob/main/Assets/Linkedin.svg" alt="Linkedin Logo" width="32">](https://www.linkedin.com/in/ankit-c-334907106/) | [<img src="https://github.com/ankit1208/ankit1208/blob/main/Assets/Instagram.svg" alt="instagram logo" width="32">](https://www.instagram.com/maybe_ankit/) |[<img src="https://cdn.svgporn.com/logos/github-icon.svg" alt="Github logo" width="34">](https://github.com/ankit1208) | [<img src="https://github.com/ankit1208/ankit1208/blob/main/Assets/HackerRank.svg" alt="HackerRank Logo" width="30">](https://www.hackerrank.com/ankitchoudhary13/)  | [<img src="https://github.com/ankit1208/ankit1208/blob/main/Assets/Gmail.svg" alt="Gmail logo" height="32">](mailto:ankitchoudhary1208@gmail.com) |
-</p>
+</div>
 <!---
 ankit1208/ankit1208 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

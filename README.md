@@ -1,3 +1,5 @@
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px"/> I am Ankit</h1>
+
 - 👋 Hi, I’m @ankit1208
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning reactjs,django.

@@ -7,8 +7,8 @@
 - 👋 Hi, I’m @ankit1208
 - 👀 I’m interested in web development. 
 - 🌱 I’m currently learning reactjs,django.
-- smart work over hardwork
-- what do you think came first chicken or egg?.
+- 💬smart work over hardwork
+- 🤔what do you think came first chicken or egg?.
 
 
 <hr>

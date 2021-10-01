@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ankit1208" alt="ankit1208"/> </p> 
 
 - 👋 Hi, I’m @ankit1208
-- 👀 I’m interested in web development. 
+- 👀 I’m interested in web development/full stack. 
 - 🌱 I’m currently learning reactjs,django.
 - 💬smart work over hardwork
 - 🤔what do you think came first chicken or egg?.
